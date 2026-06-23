@@ -3,16 +3,16 @@ import { SiC, SiTypescript, SiPostgresql, SiMongodb, SiFastapi, SiNextdotjs } fr
 
 const skillCategories = [
   {
-    title: "Programming",
-    items: ["C", "Python", "HTML", "CSS", "Java"],
+    title: "Programming & Frameworks",
+    items: ["C", "Python", "HTML", "CSS", "Java", "React", "Node.js"],
   },
   {
     title: "Databases",
     items: ["MongoDB", "SQL"],
   },
   {
-    title: "Tools and Platforms",
-    items: ["Tableau", "Power BI", "Excel", "Jupyter Notebook", "GitHub"],
+    title: "Tools & Emerging Tech",
+    items: ["Tableau", "Power BI", "Excel", "Jupyter Notebook", "GitHub", "Generative Automation"],
   },
   {
     title: "Core Competencies",
