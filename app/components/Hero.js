@@ -15,10 +15,10 @@ export default function Hero() {
             I'm Veenashree B
           </h2>
           <h3 className="text-2xl sm:text-3xl font-bold text-black mb-4">
-            Data Science Student
+            Technology Intern
           </h3>
           <p className="text-base sm:text-lg text-black mb-6 leading-relaxed max-w-2xl mx-auto">
-            Curious and detail-oriented data science student with a solid engineering foundation. Skilled in data analysis, machine learning, and visualization.
+            Curious and detail-oriented Technology Intern with a solid engineering foundation. Skilled in software development, data analysis, and integrating Generative AI solutions.
           </p>
         </div>
 

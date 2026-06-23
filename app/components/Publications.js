@@ -2,16 +2,22 @@ import { FaBook, FaBriefcase } from "react-icons/fa";
 
 const experiences = [
   {
-    title: "Founding Member - Numinous",
-    subtitle: "Department Technical Club",
-    desc: "Spearheaded the creation of the department's technical club. Fostered a community of developers and hosted an intercollege hackathon to drive innovation and technical collaboration among students.",
+    title: "Technology Intern",
+    subtitle: "Bandhan Technologies",
+    desc: "Collaborating on software development, database optimization, and IT support. Gaining hands-on experience in building and debugging solutions, learning industry workflows, and contributing to engineering efforts.",
     date: "Present",
   },
   {
     title: "App Development using Generative AI",
     subtitle: "MindMatrix | 16 weeks",
-    desc: "Currently pursuing an internship in Android App Development with a specialization in Generative AI, where I am developing a mobile application with AI-driven features. Gaining hands-on experience in integrating GenAI tools, designing interaction workflows, and building a mini-project that showcases practical implementation of AI in Android applications.",
-    date: "Current",
+    desc: "Completed an academic internship in Android App Development with a specialization in Generative AI. Developed a mobile application featuring AI-driven capabilities, integrated GenAI tools, and designed interaction workflows.",
+    date: "Completed",
+  },
+  {
+    title: "Founding Member - Numinous",
+    subtitle: "Department Technical Club",
+    desc: "Spearheaded the creation of the department's technical club. Fostered a community of developers and hosted an intercollege hackathon to drive innovation and technical collaboration among students.",
+    date: "Present",
   },
 ];
 
