@@ -15,10 +15,10 @@ export default function Hero() {
             I'm Veenashree B
           </h2>
           <h3 className="text-2xl sm:text-3xl font-bold text-black mb-4">
-            Technology Intern
+            SD intern
           </h3>
           <p className="text-base sm:text-lg text-black mb-6 leading-relaxed max-w-2xl mx-auto">
-            Curious and detail-oriented Technology Intern with a solid engineering foundation. Skilled in software development, data analysis, and integrating Generative AI solutions.
+            Curious and detail-oriented SD intern with a solid engineering foundation. Skilled in software development, data analysis, and integrating Generative AI solutions.
           </p>
         </div>
 
@@ -34,7 +34,7 @@ export default function Hero() {
 
         <div className="flex flex-col items-center gap-4">
           <span className="flex items-center gap-2 rounded-full bg-blue-100 px-4 py-2 border border-blue-300 text-black font-semibold">
-            ⭐ Current CGPA: 8.3
+            ⭐ Current CGPA: 8.48
           </span>
 
           <a

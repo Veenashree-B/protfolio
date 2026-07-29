@@ -2,7 +2,7 @@ import { FaBook, FaBriefcase } from "react-icons/fa";
 
 const experiences = [
   {
-    title: "Technology Intern",
+    title: "SD intern",
     subtitle: "Bandhan Technologies",
     desc: "Collaborating on software development, database optimization, and IT support. Gaining hands-on experience in building and debugging solutions, learning industry workflows, and contributing to engineering efforts.",
     date: "Present",
